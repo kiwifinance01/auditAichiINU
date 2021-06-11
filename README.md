@@ -1,4 +1,4 @@
-# audit AichiINU
+# AUDIT AichiINU TOKEN
 ADDITIONAL INFORMATION FOLLOWING THE AUDIT OF AICHIINU TOKEN
 SmartContract
 AichiINU® is an encrypted messaging platform that keeps the privacy of its users safe by proposing a strong and efficient alternative to emails.
